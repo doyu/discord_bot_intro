@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "discord_bot_intro"
+  site-url: "https://doyu.github.io/discord_bot_intro"
+  description: "discord bot intro"
+  repo-branch: main
+  repo-url: "https://github.com/doyu/discord_bot_intro"
